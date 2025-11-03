@@ -32,3 +32,37 @@ A **Market/Grocery list** application built specifically to demonstrate efficien
 * Allows for handling item click events on individual list elements.
 
 ---
+
+### Screenshots
+<table style="width:100%;"> 
+  <tr> 
+    <td align="center" style="width:50%;"> 
+      <strong>Main Screen
+        <br>
+      </strong>
+      <br> 
+      <img src="https://github.com/MrHAM17/AD_10_Market_App/blob/main/Result%20Pics/01%20Main%20Screen.jpg" height="510" width="240"> 
+  </td> 
+    <td align="center" style="width:50%;"> 
+      <strong>RecyclerView Screen
+        <br>
+      </strong>
+      <br> 
+      <img src="https://github.com/MrHAM17/AD_10_Market_App/blob/main/Result%20Pics/02%20RecyclerView%20Screen.jpg" height="510" width="240">
+    
+  </td> 
+    <td align="center" style="width:50%;"> 
+      <strong>RecyclerView Screen
+        <br>
+      </strong>
+      <br> 
+      <img src="https://github.com/MrHAM17/AD_10_Market_App/blob/main/Result%20Pics/03%20RecyclerView%20Screen.jpg" height="510" width="240">
+  </td> 
+    <td align="center" style="width:50%;"> 
+      <strong>Toast Message
+        <br>
+      </strong>
+      <br> 
+      <img src="https://github.com/MrHAM17/AD_10_Market_App/blob/main/Result%20Pics/04%20Toast%20Message.jpg" height="510" width="240"> </td> </tr> </table>
+
+---
