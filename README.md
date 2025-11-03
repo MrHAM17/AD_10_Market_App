@@ -49,7 +49,6 @@ A **Market/Grocery list** application built specifically to demonstrate efficien
       </strong>
       <br> 
       <img src="https://github.com/MrHAM17/AD_10_Market_App/blob/main/Result%20Pics/02%20RecyclerView%20Screen.jpg" height="510" width="240">
-    
   </td> 
     <td align="center" style="width:50%;"> 
       <strong>RecyclerView Screen
